@@ -1,5 +1,5 @@
 package myblog2.controller;
-
+// Hello
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
